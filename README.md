@@ -29,4 +29,4 @@ First, open [http://log4stuff.com/app/winston_example](http://log4stuff.com/app/
 Run the example script, and you'll see the log messages appear on the Log4net website in real-time.
 
 Replace **winston_example** with any string, and use that same string in your Log4stuff url:
-http://log4stuff.com/app/**winston\_example**
+[http://log4stuff.com/app/**winston_example**](http://log4stuff.com/app/winston_example)
